@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm... 
 
-<!--
-**dlope0831/dlope0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ezgif-4-291955b472](https://user-images.githubusercontent.com/108595214/196823867-74dee594-b3ec-4327-ac55-389a4c431b7a.gif)
 
-Here are some ideas to get you started:
+I am a Full-Stack Web Developer with experience programming with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Node
+✨ Express
+✨ JavaScript
+✨ SQL
+
+
+[![Danielas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlope0831)](https://github.com/anuraghazra/github-readme-stats)
+
+
+Check out my favorite projects which are pinned down below.
