@@ -8,6 +8,7 @@ I am a Full-Stack Web Developer with experience programming with:
 ✨ Express
 ✨ JavaScript
 ✨ SQL
+✨ React
 
 
 [![Danielas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlope0831)](https://github.com/anuraghazra/github-readme-stats)
